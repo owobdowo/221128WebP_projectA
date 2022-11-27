@@ -186,3 +186,6 @@ input[type="file"]::file-selector-button {
 #jsRange{
     background-color: black;
 }
+body{
+    background-color: white;
+}
